@@ -1,0 +1,9 @@
+# Jupyter Notebookのチェックポイントを無視
+.ipynb_checkpoints/
+
+# Pythonのキャッシュを無視
+__pycache__/
+*.pyc
+
+# 仮想環境のディレクトリを無視
+venv/
